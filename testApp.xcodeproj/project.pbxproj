@@ -14,6 +14,7 @@
 		C39A07D6298FF376004D8692 /* testAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C39A07D5298FF376004D8692 /* testAppTests.swift */; };
 		C39A07E0298FF376004D8692 /* testAppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C39A07DF298FF376004D8692 /* testAppUITests.swift */; };
 		C39A07E2298FF376004D8692 /* testAppUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C39A07E1298FF376004D8692 /* testAppUITestsLaunchTests.swift */; };
+		C39A07F129900C68004D8692 /* FormView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C39A07F029900C68004D8692 /* FormView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		C39A07DB298FF376004D8692 /* testAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = testAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		C39A07DF298FF376004D8692 /* testAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = testAppUITests.swift; sourceTree = "<group>"; };
 		C39A07E1298FF376004D8692 /* testAppUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = testAppUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		C39A07F029900C68004D8692 /* FormView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FormView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +98,7 @@
 			children = (
 				C39A07C4298FF374004D8692 /* testAppApp.swift */,
 				C39A07C6298FF374004D8692 /* ContentView.swift */,
+				C39A07F029900C68004D8692 /* FormView.swift */,
 				C39A07C8298FF376004D8692 /* Assets.xcassets */,
 				C39A07CA298FF376004D8692 /* Preview Content */,
 			);
@@ -257,6 +260,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C39A07F129900C68004D8692 /* FormView.swift in Sources */,
 				C39A07C7298FF374004D8692 /* ContentView.swift in Sources */,
 				C39A07C5298FF374004D8692 /* testAppApp.swift in Sources */,
 			);
