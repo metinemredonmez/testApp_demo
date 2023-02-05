@@ -1,19 +1,4 @@
-//
-//  ContentView.swift
-//  testApp
-//
-//  Created by emre on 5.02.2023.
-//
 
-import SwiftUI
-
-//
-//  ContentView.swift
-//  Combine Views
-//
-//  Created by Can Balkaya on 4/14/20.
-//  Copyright © 2020 Can Balkaya. All rights reserved.
-//
 
 import SwiftUI
 
